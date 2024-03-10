@@ -51,7 +51,19 @@
         { "issue": "العوامل النفسية", "state": "معروفة", "facts": ["المريض يعاني من اكتئاب مزمن"] },
         { "issue": "العوامل الاجتماعية", "state": "معروفة", "facts": ["المريض يعيش وحيدًا دون دعم عائلي"] },
         { "issue": "العوامل الغذائية", "state": "معروفة", "facts": ["المريض يتبع نظام غذائي منخفض الصوديوم"] }
-          ]
+          ],
+          "visite":{
+              "doctor":"امير مكرم المرزوقى",
+              "dep":"اخصائى الباطنه وامراض القلب",
+              "info":{
+                  "phone":"01024869884",
+                  "adress":"الباجور-بهناى"
+              },
+              "date":"18/10/2023",
+              "rosheta":[{"name":"pandol","description":"كبسوله صباحا ومساء"},{"name":"polyfresh","description":"3 مرات يوميا"},{"name":"neromax","description":"كبسوله كل 12 ساعه"}],
+              "tahlil":["Hepatitis Panel","Lipid Panel"],
+              "ashea":["Echocardiography"]
+          }
     
 }
   ]
