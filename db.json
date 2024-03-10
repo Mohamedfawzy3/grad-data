@@ -193,9 +193,25 @@
 "date": "7/9/2022",
 "doctor":"طارق عبدالرحمن" ,
 "result": "result"},{
+    "name": " PSA",
 "date": "20/10/2023",
 "doctor": "علاء ياسين",
-"result": "result"},{"date": "22/2/2024",
+"result": "result"},{
+    "name": "Lipid Panel","date": "22/2/2024",
+"doctor": "عبدالفتاح قدرى",
+"result": "result"},{"name":"BMP" ,
+"date": "31/12/2022",
+"doctor": "طارق عبدالرحمن",
+"result": "result"},
+  {"name": "LFTs",
+"date": "7/9/2022",
+"doctor":"طارق عبدالرحمن" ,
+"result": "result"},{
+    "name": " PSA",
+"date": "20/10/2023",
+"doctor": "علاء ياسين",
+"result": "result"},{
+    "name": "Lipid Panel","date": "22/2/2024",
 "doctor": "عبدالفتاح قدرى",
 "result": "result"}
         ]
